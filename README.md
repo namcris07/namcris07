@@ -11,7 +11,7 @@
   <a href="https://www.facebook.com/namcris07/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
   </a>
-  <a href="mailto:nam.nguyennamcris7@hcmut.edu.vn">
+  <a href="https://mail.google.com/mail/u/0/?to=nam.nguyennamcris7@hcmut.edu.vn&fs=1&tf=cm">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" />
   </a>
 </p>
