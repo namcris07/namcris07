@@ -1,84 +1,62 @@
-<!-- Header / Banner -->
-<div align="center">
-  
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3200&pause=900&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Chu+H%E1%BA%A3i+Nam;CS+Student+%40+HCMUT;Learning+React%2C+Node.js%2C+DSA;Building+impactful+software" alt="Typing SVG" />
-  
-  <!-- Counters -->
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=nguyenchuhaianam&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/nguyenchuhaianam?style=flat&logo=github" alt="followers"/>
-</div>
+<!-- Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Chu+H%E1%BA%A3i+Nam;Computer+Science+Student+%40+HCMUT;Love+Programming+%26+AI;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="https://facebook.com/your-link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" /></a>
+  <a href="mailto:nam.nguyennamcris7@hcmut.edu.vn"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" /></a>
+</p>
 
 ---
 
-# 👋 Hi, I'm Nguyễn Chu Hải Nam  
-
-🎓 A Computer Science student at **Ho Chi Minh City University of Technology (HCMUT)**  
-💡 Strong passion for technology, programming, and building impactful solutions  
+## 👋 About Me
+- 🎓 My name is **Nguyễn Chu Hải Nam**, a **Computer Science student at HCMUT**.  
+- 💡 Passionate about **Programming & Artificial Intelligence**.  
+- 🎯 Goal: To become a **Fullstack Developer** and explore **AI applications**.  
+- 📧 Reach me at: **nam.nguyennamcris7@hcmut.edu.vn**  
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
-- Python 🐍
-- C++ ⚡
-- Java ☕
-
-**Tools & Platforms**
-- VS Code 🔧
-- GitHub 🐙
-
-<!-- Optional badge row -->
-<!--
+**Languages:**  
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
--->
+
+**Tools & Platforms:**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
-- 🔭 *[Project 1](#)* — One-liner about what it does / your impact  
-- 🌱 *[Project 2](#)* — One-liner about what it does / your impact  
-- ⚡ *[Project 3](#)* — One-liner about what it does / your impact  
-
-> Tip: thay `#` bằng link repo thật và viết mô tả 1 câu, nhấn mạnh tech + kết quả.
+## 🚀 Projects
+- 🔭 [StudyHubBKU](#) — A study platform for students.  
+- 🌱 [Project 2](#) — Description here.  
+- ⚡ [Project 3](#) — Description here.  
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuhaianam&show_icons=true&theme=tokyonight" alt="stats"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=nguyenchuhaianam&theme=tokyonight" alt="streak"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuhaianam&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=nguyenchuhaianam&theme=tokyonight" height="165"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuhaianam&layout=compact&theme=tokyonight" alt="top langs"/>
-
----
-
-## 📫 Contact
-- 📧 Email: **nam.nguyennamcris7@hcmut.edu.vn**
-- 🌐 [LinkedIn](#) · [Facebook](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuhaianam&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🎵 Fun Facts
-- ⚽ Football lover
-- 🎶 Music keeps me motivated
-
-<!-- Footer -->
----
-*✨ Thanks for visiting!*
+- ⚽ Football lover  
+- 🎶 Music keeps me motivated  
