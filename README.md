@@ -5,10 +5,10 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/nam-nguy%E1%BB%85n-chu-h%E1%BA%A3i-566419382/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://facebook.com/your-facebook" target="_blank">
+  <a href="https://www.facebook.com/namcris07/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
   </a>
   <a href="mailto:nam.nguyennamcris7@hcmut.edu.vn">
@@ -16,14 +16,13 @@
   </a>
 </p>
 
+
 ---
 
 ## 👋 About Me
-- 🎓 **Computer Science student @ HCMUT**
-- 💡 Passionate about **Programming & AI**
+- 🎓 **Computer Science Student at Ho Chi Minh City University of Technology (HCMUT)**  
+- 💡 Passionate about **Programming & AI**  
 - 📧 Email: **nam.nguyennamcris7@hcmut.edu.vn**
-
----
 
 ---
 
@@ -42,31 +41,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
-
 ---
 
-## 📊 Profile Summary Cards
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=namcris07&theme=tokyonight&v=2" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=namcris07&theme=tokyonight&hide_border=true&dates=e8df7a&fire=e8df7a" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namcris07&theme=tokyonight&v=2" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namcris07&theme=tokyonight&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=namcris07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namcris07&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🔥 Streak & Classic Stats
+## 📈 Contribution Insights
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=namcris07&theme=tokyonight&date_format=M%20j%5B,%20Y%5D&v=2" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=namcris07&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=namcris07&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=namcris07&theme=tokyonight" width="32%"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namcris07&show_icons=true&theme=tokyonight&v=2" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namcris07&theme=tokyonight" width="100%"/>
 </p>
+
+---
+
+## 🔥 Activity Graph & Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namcris07&layout=compact&theme=tokyonight&v=2"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namcris07&theme=github-compact" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/namcris07/namcris07/output/github-snake-dark.svg" width="100%"/>
 </p>
 
 ---
