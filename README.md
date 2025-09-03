@@ -5,9 +5,11 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
-  <a href="https://facebook.com/your-link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" /></a>
-  <a href="mailto:nam.nguyennamcris7@hcmut.edu.vn"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="https://facebook.com/your-link"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
+  <a href="mailto:nam.nguyennamcris7@hcmut.edu.vn">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
+  </a>
 </p>
 
 ---
@@ -33,26 +35,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</p>
-
----
-
-## 🚀 Projects
-- 🔭 [StudyHubBKU](#) — A study platform for students.  
-- 🌱 [Project 2](#) — Description here.  
-- ⚡ [Project 3](#) — Description here.  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenchuhaianam&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=nguyenchuhaianam&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenchuhaianam&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
