@@ -72,9 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namcris07&theme=github-compact" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/namcris07/namcris07/output/github-snake-dark.svg" width="100%"/>
-</p>
+
 
 ---
 
