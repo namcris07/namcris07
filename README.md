@@ -1,7 +1,6 @@
 <!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&center=true&vCenter=true&width=720
-  &lines=Hi%2C+I'm+Nguy%E1%BB%85n+Chu+H%E1%BA%A3i+Nam;CS+Student+%40+HCMUT;Love+Programming+%26+AI;Always+Learning+%26+Building" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=900&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Chu+H%E1%BA%A3i+Nam;Computer+Science+Student+%40+HCMUT;Love+Programming+%26+AI;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <!-- Social Icons -->
